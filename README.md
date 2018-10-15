@@ -42,7 +42,7 @@ Mobile Learning is a prime example of language development whilst learning at a 
 
 **Landscape** 
 
-There are some similar systems such as the one mentioned above which is called the 
+Duolingo is one of the biggest competitors in terms of the field that we are wanting to do our project idea on, they have quite the similar concept of learning languages and having diffrent departments of difficulty levels and such, but they do not have a system where they reward members who continue to stick with learning a language. What they do not have that EZ-E will be a dictionary definintion of every word during the learning process and there will also be a feature where the user can use his finger and draw the character of a language for example; a chinese, japanese or korean character, making this a more interactive application compared to some other ones. Also all EZ-E lessons will be avaliable offline after a one time download, and will only ever continue to update over the Wi-Fi when connected or 4G if outdoors, Duolingo has a Duolingo Plus feature which is a paid feature that enables offline access and gets rid of advertisements, EZ-E will have very minor advertisements but only just before the lesson starts as a form of earning a small revenue for the company.   
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
