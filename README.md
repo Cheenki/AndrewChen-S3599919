@@ -13,4 +13,8 @@ Although there are no common elements, we each strive to continue our future job
 
 # Tools 
 Group 40 on Canvas 
-Group Website/Link to the github repository: 
+Group Website/Link to the github repository: https://cheenki.github.io/AndrewChen-S3599919/ 
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+# Project Description 
