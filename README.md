@@ -97,6 +97,7 @@ Some risks that we may encounter would be that, making a device that is capable 
 
 **Group processes and communication** 
 
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # Skills and Jobs: 
