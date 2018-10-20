@@ -54,6 +54,11 @@ The aim of this project is to be able to successfully implement the software ont
 If things do not go to plan, if we are not able to reach the stage where we can begin working on devices that have an additional software for on the spot translation whilst being offline and not having internet connectivity, then we will continue to work on the educational aspect of it. For our project, students come first and then travellers, but if we do have enough resources then we will be able to continue with both aspects. Students will always be a focus and priority because education is key to learning new things, technology is only advancing more and more each day, students are reverting to laptops and iPads rather than textbooks because it’s more convenient, hence being able to focus on the current generation and how they are now will undoubtedly make this project rather successful. 
 
 
+This is an example of what the product may look like once it is released: 
+
+<img width="500" alt="what it might look like" src="https://user-images.githubusercontent.com/42104341/47254038-b371b280-d4a7-11e8-9f57-25e3f2c8b1a4.png">
+
+
 **Plans and Progress** 
 
 **Roles** 
