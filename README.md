@@ -49,7 +49,7 @@ Duolingo is one of the biggest competitors in terms of the field that we are wan
 # Detailed Description: 
 **Aims** 
 
-The aim of this project is to be able to successfully implement the software onto the hand-held devices of students at primary/secondary and tertiary college to help them learn languages faster. To set a more specific aim which is rather relevant to the future would be to be able to integrate this software into possibly a; hand-held on the spot translation device or an in-ear translation device. The goal is to be able to create a device and software/program once the implementation of the software into the educational aspect has been covered. Therefore, the aim is to produce a translation device that is useful for people who travel, going from a broader idea to a more precise one. 
+The aim of this project is to be able to successfully implement the software onto the hand-held devices of students at primary/secondary and tertiary college to help them learn languages faster. To set a more specific aim which is rather relevant to the future would be to be able to integrate this software into possibly a; hand-held on the spot translation device or an in-ear translation device. The goal is to be able to create a device called the EZ-E Block and software/program once the implementation of the software into the educational aspect has been covered. Therefore, the aim is to produce a translation device that is useful for people who travel, going from a broader idea to a more precise one. 
 
 If things do not go to plan, if we are not able to reach the stage where we can begin working on devices that have an additional software for on the spot translation whilst being offline and not having internet connectivity, then we will continue to work on the educational aspect of it. For our project, students come first and then travellers, but if we do have enough resources then we will be able to continue with both aspects. Students will always be a focus and priority because education is key to learning new things, technology is only advancing more and more each day, students are reverting to laptops and iPads rather than textbooks because it’s more convenient, hence being able to focus on the current generation and how they are now will undoubtedly make this project rather successful. 
 
@@ -75,6 +75,8 @@ Knowing how to understand Java as it underpins all Android development, understa
 **Testing** 
 
 If the project is deemed to be successful upon launch, then m-learning will slowly be incorporated into our daily lives as students and hopefully, in the future, many individuals will find learning a language much simpler and more enjoyable as well. Out with the old and in with the new, we are taking advantage or our current technology to its fullest potential, whilst keeping students of many ages happy and entertained.
+
+Once we have achieved working with the educational sector of things, we can then begin testing it internationally for travellers who purchase our product of the EZ-E Block 
 
 **Timeframe** 
 
