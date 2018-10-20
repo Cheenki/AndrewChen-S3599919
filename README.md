@@ -61,6 +61,11 @@ This is an example of what the product may look like once it is released:
 
 **Plans and Progress** 
 
+There is already an item that is like that which is developed by Google, called the Google Pixel Buds. But they only can be paired with the Google Pixel Phone, EZ-E will be compatible with every platform and will be allowed to translate on the spot with their in-ear phones as well. 
+
+There is already a device that is created by ili whom created a hand-held device, but it is just one way; Ez-E will be a two-way device where you can input and output the language as well from a flick of a button. 
+
+
 **Roles** 
 
 Because I am working alone on this project, I will have to take upon all the roles such as; Lead Developer, Technical Designer and User Interface Designer. It will be quite difficult as I do not have any other peers working with me on this project, but I believe that with hard work and persistency I will be able to pull through and have this project ready by the due date. Working individually on a project would seem rather intense but it is not impossible either. 
@@ -75,15 +80,16 @@ Another limitation worth mentioning is Robots, and how making such a piece of te
 
 Tools or technologies needed to create such a service will be being able to utilise “Android Studio” as it is Google’s officially supported IDE (Integrated Development Environment) for Android applications. Using its emulator and creating a blank template for our service, we will be using “Java” as our source of inputting codes and resource files to generate the output that we will be needing, more specifically ensuring that we have JDK 8 (Java SE Development Kit 8) installed on our PC. This program can be accessed on a relatively fast computer that has high RAM to ensure that our memory is not constrained whilst we are working with our application.
 
-Knowing how to understand Java as it underpins all Android development, understanding of Android SDK (Software Development Kit) and knowing how to use Android Studios will be the main skills required to build such an application. Most of this can be done directly from the computer, and the learning process is not difficult, hence you do not need a lot of knowledge to make a basic application. 
+Knowing how to understand Java as it underpins all Android development, understanding of Android SDK (Software Development Kit) and knowing how to use Android Studios will be the main skills required to build such an application. Most of this can be done directly from the computer, and the learning process is not difficult, hence we do not need a lot of knowledge on how to make an application but we do require basic item building which could possibly be done via a 3d printer, we just have to integrate the software onto a device and put it into the printed out EZ-E Block. 
 
 **Testing** 
 
-If the project is deemed to be successful upon launch, then m-learning will slowly be incorporated into our daily lives as students and hopefully, in the future, many individuals will find learning a language much simpler and more enjoyable as well. Out with the old and in with the new, we are taking advantage or our current technology to its fullest potential, whilst keeping students of many ages happy and entertained.
-
-Once we have achieved working with the educational sector of things, we can then begin testing it internationally for travellers who purchase our product of the EZ-E Block 
+How we will begin testing the project will be by implementing a sample stack of blocks to schools, and then we will gain feedback based on how well the software had helped them, and if it did not then what were some things that we can improve on so that we can help develop a better more easier to use software. If all goes to plan, then with the EZ-E Blocks we can implement them to tour guides who are travelling overseas, this will be very beneficial to see if this works in real time during their travel period, and like with 
+If the project is deemed to be successful upon launch, then m-learning will slowly be incorporated into our daily lives as students and hopefully, in the future, many individuals will find learning a language much simpler and more enjoyable as well. Out with the old and in with the new, we are taking advantage or our current technology to its fullest potential, whilst keeping students of many ages happy and entertained. The same goes with travellers whom have used the items, they will be able to travel stress-free and not having to worry about mispronouncing words or getting to the correct places, all that can now be done with the EZ-E Block. 
 
 **Timeframe** 
+
+
 
 **Risks** 
 
