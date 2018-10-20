@@ -89,9 +89,11 @@ If the project is deemed to be successful upon launch, then m-learning will slow
 
 **Timeframe** 
 
-
+![timeline intro to it](https://user-images.githubusercontent.com/42104341/47255351-6ac3f480-d4bb-11e8-98d6-3f655d029d92.PNG)
 
 **Risks** 
+
+Some risks that we may encounter would be that, making a device that is capable of storing such data may come with consequences if there is not enough memory or storage to hold all that information into one small device. Although with technology nowadays, you can have a micro sd card that is capable of holding up to 512GB worth of data in one small card, this is more than plenty to be able to store all the languages avaliable all around the world onto a portable device. Hence this is not so much a risk to Simple Tech as the micro sd card is our main component apart from the EZ-E Block itself where it will be 3D printed and easily assembled to be able to provide an easy and simple device that everyone can use. The EZ-Ears may have a risk of not being able to fit everyones ear correctly, or may have continuous faults or incorrect translations, this can be fixed if we integrate different types of ear bud types that can be swapped on the go depending on the style of your ears, the update situation can be solved via a dock that ear buds plug into when you are not using them, the earbuds can be wired or wireless and all depends on what suits you, either way it will do its job correctly and should not have any problems if we have no troubles with the software development. 
 
 **Group processes and communication** 
 
