@@ -4,7 +4,7 @@
 
 # Team Name: 
 
-Simple Tech
+Simple Tech (Making Technology Simple and Easy) 
 
 # Personal Information 
 
@@ -49,11 +49,22 @@ Duolingo is one of the biggest competitors in terms of the field that we are wan
 # Detailed Description: 
 **Aims** 
 
+The aim of this project is to be able to successfully implement the software onto the hand-held devices of students at primary/secondary and tertiary college to help them learn languages faster. To set a more specific aim which is rather relevant to the future would be to be able to integrate this software into possibly a; hand-held on the spot translation device or an in-ear translation device. The goal is to be able to create a device and software/program once the implementation of the software into the educational aspect has been covered. Therefore, the aim is to produce a translation device that is useful for people who travel, going from a broader idea to a more precise one. 
+
+If things do not go to plan, if we are not able to reach the stage where we can begin working on devices that have an additional software for on the spot translation whilst being offline and not having internet connectivity, then we will continue to work on the educational aspect of it. For our project, students come first and then travellers, but if we do have enough resources then we will be able to continue with both aspects. Students will always be a focus and priority because education is key to learning new things, technology is only advancing more and more each day, students are reverting to laptops and iPads rather than textbooks because it’s more convenient, hence being able to focus on the current generation and how they are now will undoubtedly make this project rather successful. 
+
+
 **Plans and Progress** 
 
 **Roles** 
 
+Because I am working alone on this project, I will have to take upon all the roles such as; Lead Developer, Technical Designer and User Interface Designer. It will be quite difficult as I do not have any other peers working with me on this project, but I believe that with hard work and persistency I will be able to pull through and have this project ready by the due date. Working individually on a project would seem rather intense but it is not impossible either. 
+
 **Scopes and Limits** 
+
+Once we move onto creating devices for translating languages on the spot we can set a scope for the project by only inputting a few languages at a time, a way this can be done is from analysing which countries are visited most and then implementing a full dictionary of those languages into our devices. 
+
+Another limitation worth mentioning is Robots, and how making such a piece of technology could affect people whom are translators, the way this can affect them is by making them lose their jobs because there will not be a need for them anymore if these translating devices do come into play in the future. Although there will be some jobs still remaining such interpreters. Hence this may be a slight limit, but it will definately not limit our capability to continue with the project in the future years.  
 
 **Tools and Technologies** 
 
