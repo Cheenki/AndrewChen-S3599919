@@ -103,12 +103,19 @@ Being an ex-member of Group 38, I have ventured out into working by myself into 
 
 # Skills and Jobs: 
 
+![skills and jobs](https://user-images.githubusercontent.com/42104341/47264358-21c67b80-d561-11e8-9f4d-b90d7e250edc.PNG)
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # Feedback: 
 
+100% Contribution for myself as I worked solo on this assignment. 
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # Group Reflection: 
+
+Because I did not have a group in this assignment, I can not say too much about the group reflection itself apart from the fact that it definately would have been better if my group from Assignment 2 had the same commitment levels as me and were able to communicate to me more regularly. Although I can safely say that from my past experience with groups, they have always been a positive one, being in a group allows you to gather thoughts of not just from your head, but from everyone else's and it's a very surprising thing sometimes because you never know who you share common thoughts with and that could generally end up being very useful for ideas when writing a report or doing a group presentation. Group work is definately time consuming, but with the right people, it could easily be a breeze. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
