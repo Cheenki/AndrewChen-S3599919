@@ -97,6 +97,7 @@ Some risks that we may encounter would be that, making a device that is capable 
 
 **Group processes and communication** 
 
+Being an ex-member of Group 38, I have ventured out into working by myself into this project due to some communicating issues that I had experienced with my other peers. It is in my best interest that I do this project alone as I have all concentration focused on just myself and not having to worry about anyone else but the project and getting it done on time. Talking about my ex-group, the ways that we had sometimes communicated was via email and WhatsApp as majority of the members did not have Facebook, hence we had to do it a different way in which everyone was able to communicate with each other, but not long after that barely any communication was made. Usually you would expect contact outside of class time, but my group members did not go to the tutorials or lectures, so it made it very hard for me to communicate with them, therefore working alone has allowed me to work at a much faster pace and be more effective and efficient at the same time. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
