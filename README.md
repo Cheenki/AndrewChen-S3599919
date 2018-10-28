@@ -98,6 +98,8 @@ Because I am working alone on this project, I will have to take upon all the rol
 
 **Scopes and Limits** 
 
+![limitations](https://user-images.githubusercontent.com/42104341/47611390-4b7b2780-dab8-11e8-83a8-f3a6df782d69.jpg)
+
 Once we move onto creating devices for translating languages on the spot we can set a scope for the project by only inputting a few languages at a time, a way this can be done is from analysing which countries are visited most and then implementing a full dictionary of those languages into our devices. 
 
 Another limitation worth mentioning is Robots, and how making such a piece of technology could affect people whom are translators, the way this can affect them is by making them lose their jobs because there will not be a need for them anymore if these translating devices do come into play in the future. Although there will be some jobs still remaining such interpreters. Hence this may be a slight limit, but it will definately not limit our capability to continue with the project in the future years.  
