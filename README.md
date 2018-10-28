@@ -19,6 +19,7 @@ I had experienced quite a lot of issues in with my group, hence with this assign
 Although there are no common elements, we each strive to continue our future jobs in the technological side of things, sticking true to our Information Technology roots. My ideal job was to become an IT Technical Support Officer, which focused on helping clients/customers who are in need of help regarding any I.T related inquiries, whilst the other members ideal jobs were becoming a Software Engineer and becoming a Games Developer.
 
 ![technical support](https://user-images.githubusercontent.com/42104341/47611344-6600d100-dab7-11e8-97d4-64bf9093b51f.png)
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # Tools: 
