@@ -20,6 +20,8 @@ Although there are no common elements, we each strive to continue our future job
 
 ![technical support](https://user-images.githubusercontent.com/42104341/47611344-6600d100-dab7-11e8-97d4-64bf9093b51f.png)
 
+Being a technical support officer allows me to do what I like to do best, which is to help others that are in need, I feel a sense of satisfaction knowing that I had helped someone overcome a situation that they may have been stuck in. Hence this job is what I would like to steer towards to and hopefully be able to become in the near future. 
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # Tools: 
