@@ -18,6 +18,8 @@ I had experienced quite a lot of issues in with my group, hence with this assign
 
 Although there are no common elements, we each strive to continue our future jobs in the technological side of things, sticking true to our Information Technology roots. My ideal job was to become an IT Technical Support Officer, which focused on helping clients/customers who are in need of help regarding any I.T related inquiries, whilst the other members ideal jobs were becoming a Software Engineer and becoming a Games Developer.
 
+![technical support](https://user-images.githubusercontent.com/42104341/47611255-be36d380-dab5-11e8-8880-77f7c386cd27.jpg)
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 # Tools: 
@@ -32,9 +34,9 @@ Group Website/Link to the github repository: https://cheenki.github.io/AndrewChe
 
 **Topic** 
 
-My project idea consists of generating a language application that is for primary/secondary or even tertiary students in hopes to engage them into improving their English or learning another language in an easy and effective way; this is via utilising an application called “Android Studios” alongside other programs such as Java. The name of this application will be called “EZ English” or “EZ-E” for short and is designed for Android-based phones/tablets and will be accessible on the Google Play Store and eventually the Apple play store aswell. The reason for chosing this topic is because it will always become a necessity to integrate into our everyday life especially at primary/secondary schools where learning is more than vital for every individual. 
+My project idea consists of generating a language application that is for primary/secondary or even tertiary students in hopes to engage them into improving their English or learning another language in an easy and effective way; this is achieved via utilising an application called “Android Studios” alongside other programs such as Java. The name of this application will be called “EZ English” or “EZ-E” for short and is designed for Android-based phones/tablets and will be accessible on the Google Play Store and eventually the Apple play store aswell. The reason for chosing this topic is because it will always become a necessity to integrate into our everyday life especially at primary/secondary schools where learning is very important and rather essential for every individual. 
 
-Being able to translate and learn english based on a hand held device is a very effective and efficient way of teaching students and ensuring that their learning processes are more fun than boring, this is due to the inbuilt features of the application where the individual will have endless possibilities to learn languages in a very fun way. In regards to the big picture, the project will eventually expand and be successfully programmed to be able to use on both Android and Apple platforms so that it isn't just one operating system specific, and the outcome from all of this would hopefully be that people will seek to engage in learning a new language whether it may be to boost their current language or to learn an entirely new one, utilising the application will undoubtedly open up the eyes of many. 
+Being able to translate and learn english based on a hand held device is a very effective and efficient way of teaching students and ensuring that their learning processes are more fun rather than boring, this is due to the inbuilt features of the application where the individual will have endless possibilities to learn languages in a very fun way. In regards to the big picture, the project will eventually expand and be successfully programmed to be able to use on both Android and Apple platforms so that it isn't just one operating system specific, and the outcome from all of this would hopefully be that people will seek to engage in learning a new language whether it may be to boost their current language or to learn an entirely new one, utilising the application will undoubtedly open up the eyes of many. 
 
 **Motivation**
 
