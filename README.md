@@ -42,9 +42,13 @@ Being able to translate and learn english based on a hand held device is a very 
 
 Mobile Learning is a prime example of language development whilst learning at a speedy but fun rate. Our world today is obsessed with technology and what would be better than being able to self-study on devices that we use on the daily. We know that the majority of the students are opting to study online due to their time restrictions, with this application students can study anywhere and, on the go, as well. M-learning is becoming the future and with endless amounts of learning resources available in a compact style, students would enjoy such a platform for the expansion of their vocabulary. Alongside the current trends of 2018, User-friendly applications are one of the most trending tools that allow and ensure that in the near future fewer people will need to learn how various technologies really work. Hence to the future employer, allowing them to see that I am working on a project that is beneficial to the future will enable them to seek that I am not thinking of the current moment but wanting to future proof the project and continue to progress and add more towards it in the future. 
 
+![ipad use at school](https://user-images.githubusercontent.com/42104341/47611288-5cc33480-dab6-11e8-9916-3844fe7da7da.JPG)
+
 **Landscape** 
 
 Duolingo is one of the biggest competitors in terms of the field that we are wanting to do our project idea on, they have quite the similar concept of learning languages and having diffrent departments of difficulty levels and such, but they do not have a system where they reward members who continue to stick with learning a language. What they do not have that EZ-E will be a dictionary definintion of every word during the learning process and there will also be a feature where the user can use his finger and draw the character of a language for example; a chinese, japanese or korean character, making this a more interactive application compared to some other ones. Also all EZ-E lessons will be avaliable offline after a one time download, and will only ever continue to update over the Wi-Fi when connected or 4G if outdoors, Duolingo has a Duolingo Plus feature which is a paid feature that enables offline access and gets rid of advertisements, EZ-E will have very minor advertisements but only just before the lesson starts as a form of earning a small revenue for the company.   
+
+![duolingo-796x419](https://user-images.githubusercontent.com/42104341/47611296-83816b00-dab6-11e8-938d-1cd9ed14e7dd.jpg)
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
